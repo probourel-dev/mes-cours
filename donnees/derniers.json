@@ -21,7 +21,7 @@
   "symbole": "FR0010230490:EUR"
  },
  "FR0010315770": {
-  "cours": 429.93,
+  "cours": 429.76,
   "date": "2026-11-18",
   "devise": "EUR",
   "source": "ft",
@@ -42,8 +42,8 @@
   "symbole": "FR0010560037:EUR"
  },
  "FR0011176627": {
-  "cours": 107.9,
-  "date": "2026-11-17",
+  "cours": 107.91,
+  "date": "2026-11-18",
   "devise": "EUR",
   "source": "ft",
   "symbole": "FR0011176627:EUR"
@@ -70,7 +70,7 @@
   "symbole": "FR0013332418:EUR"
  },
  "FR0013416716": {
-  "cours": 134.83,
+  "cours": 134.56,
   "date": "2026-11-18",
   "devise": "EUR",
   "source": "ft",
@@ -147,7 +147,7 @@
   "symbole": "IE00BF2N0785:EUR"
  },
  "IE00BGV5VN51": {
-  "cours": 192.88,
+  "cours": 194.56,
   "date": "2026-11-18",
   "devise": "EUR",
   "source": "ft",
@@ -182,15 +182,15 @@
   "symbole": "0MVP:LSE:EUR"
  },
  "LU1165644672": {
-  "cours": 151.15,
-  "date": "2026-11-16",
+  "cours": 150.75,
+  "date": "2026-11-17",
   "devise": "EUR",
   "source": "ft",
   "symbole": "LU1165644672:EUR"
  },
  "LU1379103812": {
-  "cours": 661.87,
-  "date": "2026-11-16",
+  "cours": 651.38,
+  "date": "2026-11-17",
   "devise": "EUR",
   "source": "ft",
   "symbole": "LU1379103812:EUR"
@@ -217,7 +217,7 @@
   "symbole": "CV9:PAR:EUR"
  },
  "LU1681043599": {
-  "cours": 693.32,
+  "cours": 693.0,
   "date": "2026-11-18",
   "devise": "EUR",
   "source": "ft",
@@ -231,8 +231,8 @@
   "symbole": "LYMS:GER:EUR"
  },
  "LU1876459303": {
-  "cours": 4426.64,
-  "date": "2026-11-16",
+  "cours": 4374.21,
+  "date": "2026-11-17",
   "devise": "EUR",
   "source": "ft",
   "symbole": "LU1876459303:EUR"
