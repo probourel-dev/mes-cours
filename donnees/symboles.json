@@ -1,0 +1,170 @@
+{
+ "FR0000008963": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR0000008963:EUR"
+ },
+ "FR0007001581": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR0007001581:EUR"
+ },
+ "FR0010230490": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR0010230490:EUR"
+ },
+ "FR0010315770": {
+  "kind": "etfs",
+  "source": "ft",
+  "symbole": "LYYA:FRA:EUR"
+ },
+ "FR0010479931": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR0010479931:EUR"
+ },
+ "FR0010560037": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR0010560037:EUR"
+ },
+ "FR0011176627": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR0011176627:EUR"
+ },
+ "FR0011261197": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR0011261197:EUR"
+ },
+ "FR0011482686": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR0011482686:EUR"
+ },
+ "FR0013332418": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR0013332418:EUR"
+ },
+ "FR0013416716": {
+  "kind": "etfs",
+  "source": "ft",
+  "symbole": "GLDA:FRA:EUR"
+ },
+ "FR0014008M99": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR0014008M99:EUR"
+ },
+ "FR0014008UN8": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR0014008UN8:EUR"
+ },
+ "FR001400A1J2": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR001400A1J2:EUR"
+ },
+ "FR001400EZY8": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR001400EZY8:EUR"
+ },
+ "FR001400K2B5": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR001400K2B5:EUR"
+ },
+ "FR001400S0Q9": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR001400S0Q9:EUR"
+ },
+ "FR001400U4S3": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "FR001400U4S3:EUR"
+ },
+ "IE000U9ODG19": {
+  "kind": "etfs",
+  "source": "ft",
+  "symbole": "DFND:MIL:EUR"
+ },
+ "IE00BF20LF40": {
+  "kind": "etfs",
+  "source": "ft",
+  "symbole": "EUMD:LSE:EUR"
+ },
+ "IE00BF2N0785": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "IE00BF2N0785:EUR"
+ },
+ "IE00BGV5VN51": {
+  "kind": "etfs",
+  "source": "ft",
+  "symbole": "XAIX:FRA:EUR"
+ },
+ "LU0159052710": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "LU0159052710:EUR"
+ },
+ "LU0171305526": {
+  "source": "quefondos",
+  "symbole": "LU0171305526"
+ },
+ "LU0284396289": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "LU0284396289:EUR"
+ },
+ "LU0496786574": {
+  "kind": "etfs",
+  "source": "ft",
+  "symbole": "0MVP:LSE:EUR"
+ },
+ "LU1165644672": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "LU1165644672:EUR"
+ },
+ "LU1379103812": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "LU1379103812:EUR"
+ },
+ "LU1623762843": {
+  "source": "quefondos",
+  "symbole": "LU1623762843"
+ },
+ "LU1670707527": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "LU1670707527:EUR"
+ },
+ "LU1681042518": {
+  "kind": "etfs",
+  "source": "ft",
+  "symbole": "CV9:PAR:EUR"
+ },
+ "LU1681043599": {
+  "kind": "etfs",
+  "source": "ft",
+  "symbole": "AMEW:FRA:EUR"
+ },
+ "LU1829221024": {
+  "kind": "etfs",
+  "source": "ft",
+  "symbole": "LYMS:GER:EUR"
+ },
+ "LU1876459303": {
+  "kind": "funds",
+  "source": "ft",
+  "symbole": "LU1876459303:EUR"
+ }
+}
